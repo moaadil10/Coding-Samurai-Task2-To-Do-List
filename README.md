@@ -38,3 +38,5 @@ Contributions are welcome! Whether you have ideas for new features, want to impr
 ## Acknowledgments
 
 - TaskMaster is inspired by the need for a simple and effective to-do list manager.
+
+<img width="1896" height="939" alt="image" src="https://github.com/user-attachments/assets/f4eb6904-4998-42db-ac3f-ed5462aa6f71" />
